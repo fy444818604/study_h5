@@ -29,10 +29,10 @@
         }
     ],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "学习平台",
+		"navigationBarBackgroundColor": "#ff8053",
+		"backgroundColor": "#666"
 	},
 	"tabBar": {
 		"color": "#7A7E83",
